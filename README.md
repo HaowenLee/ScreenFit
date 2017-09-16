@@ -29,8 +29,9 @@ allprojects {
 
 ```
 dependencies {
-    compile 'com.github.User:Repo:Tag'
+        compile 'com.github.HaowenLee:ScreenFit:1.0'
 }
+
 ```
 
 ```
