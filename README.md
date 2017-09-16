@@ -6,7 +6,7 @@ Base on 1280x720 screen.
 
 ## Thanks
 
-[http://blog.csdn.net/lmj623565791/article/details/45460089]()
+[Android 屏幕适配方案](http://blog.csdn.net/lmj623565791/article/details/45460089)
 
 ## Usage
 
