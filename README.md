@@ -4,6 +4,10 @@ In order to better use the screen fit in multiple items of the individual
 
 Base on 1280x720 screen.
 
+## Thanks
+
+[http://blog.csdn.net/lmj623565791/article/details/45460089]()
+
 ## Usage
 
 ###### Step 1. Add the JitPack repository to your build file
