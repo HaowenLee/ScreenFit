@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ScreenFit.iml" filepath="$PROJECT_DIR$/ScreenFit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenFit.iml" filepath="$PROJECT_DIR$/ScreenFit.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenfit/screenfit.iml" filepath="$PROJECT_DIR$/screenfit/screenfit.iml" />
     </modules>
   </component>
 </project>

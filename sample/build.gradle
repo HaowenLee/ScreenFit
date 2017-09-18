@@ -20,6 +20,6 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile project(path: ':library')
+    compile project(path: ':screenfit')
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
 }
