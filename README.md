@@ -29,7 +29,7 @@ allprojects {
 
 ```
 dependencies {
-        compile 'com.github.HaowenLee:ScreenFit:1.0'
+        compile 'com.github.HaowenLee:ScreenFit:1280x720'
 }
 
 ```
