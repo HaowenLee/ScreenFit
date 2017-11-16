@@ -6,6 +6,10 @@ In order to better use the screen fit in multiple items of the individual
 
 Base on 1280x720 screen.
 
+## Deprecated
+
+Has stopped because of some problems, Not recommended for use.
+
 ## Thanks
 
 [Android 屏幕适配方案](http://blog.csdn.net/lmj623565791/article/details/45460089)
