@@ -33,7 +33,7 @@ allprojects {
 
 ```
 dependencies {
-        compile 'com.github.HaowenLee:ScreenFit:1280x720'
+        implementation 'com.github.HaowenLee:ScreenFit:1280x720'
 }
 
 ```
@@ -41,6 +41,6 @@ dependencies {
 ```
 <View
         android:layout_width="@dimen/x360"
-        android:layout_height="@dimen/y360"
+        android:layout_height="@dimen/x360"
         android:background="@android:color/black"/>
 ```
