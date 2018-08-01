@@ -7,7 +7,7 @@
 
     <View
         android:layout_width="@dimen/x360"
-        android:layout_height="@dimen/y360"
+        android:layout_height="@dimen/x360"
         android:background="@android:color/black"/>
 
 </FrameLayout>
