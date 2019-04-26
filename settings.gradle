@@ -1,1 +1,1 @@
-include ':sample', ':screenfit'
+include ':app', ':library'
