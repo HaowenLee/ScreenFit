@@ -1,6 +1,6 @@
 # ScreenFit
 
-![Release](https://jitpack.io/v/HaowenLee/ScreenFit.svg)
+[![JitPack](https://jitpack.io/v/HaowenLee/ScreenFit.svg)](https://jitpack.io/#HaowenLee/ScreenFit)
 
 In order to better use the screen fit in multiple items of the individual
 
